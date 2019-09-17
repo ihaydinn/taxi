@@ -1,12 +1,12 @@
 {
   "posts": [
-    { "id": 1, "name": "İsmail Hakkı Aydın", "station": "Çiçek Taksi", "distance": "1250", "score":"3" },
-    { "id": 2, "name": "Cengiz Yılmaz", "station": "Akasya Taksi", "distance": "250", "score":"4" },
-    { "id": 3, "name": "Serkan Bayram", "station": "Terminal Taksi", "distance": "150", "score":"5" },
-    { "id": 4, "name": "Mert Öner", "station": "Çiçek Taksi", "distance": "1550", "score":"1" },
-    { "id": 5, "name": "Samet Baskıcı", "station": "Akasya Taksi", "distance": "2250", "score":"2" },
-    { "id": 6, "name": "Ferhat Yeşilyurt", "station": "Terminal Taksi", "distance": "1500", "score":"3" },
-    { "id": 7, "name": "Ali Kılınç", "station": "Konak Taksi", "distance": "850", "score":"4" }
+    { "id": 1, "name": "İsmail Hakkı Aydın", "station": "Çiçek Taksi", "distance": "1250", "score":"3", "profile":"https://i.pravatar.cc/150?img=3" },
+    { "id": 2, "name": "Cengiz Yılmaz", "station": "Akasya Taksi", "distance": "250", "score":"4", "profile":"https://i.pravatar.cc/150?img=68" },
+    { "id": 3, "name": "Serkan Bayram", "station": "Terminal Taksi", "distance": "150", "score":"5", "profile":"https://i.pravatar.cc/150?img=65" },
+    { "id": 4, "name": "Mert Öner", "station": "Çiçek Taksi", "distance": "1550", "score":"1" , "profile":"https://i.pravatar.cc/150?img=14"},
+    { "id": 5, "name": "Samet Baskıcı", "station": "Akasya Taksi", "distance": "2250", "score":"2" , "profile":"https://i.pravatar.cc/150?img=66"},
+    { "id": 6, "name": "Ferhat Yeşilyurt", "station": "Terminal Taksi", "distance": "1500", "score":"3" , "profile":"https://i.pravatar.cc/150?img=59"},
+    { "id": 7, "name": "Ali Kılınç", "station": "Konak Taksi", "distance": "850", "score":"4" , "profile":"https://i.pravatar.cc/150?img=57"}
   ],
   "comments": [
     { "id": 1, "body": "comments here", "postId": 1 },
