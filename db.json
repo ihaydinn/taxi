@@ -15,7 +15,7 @@
     { "id": 13, "name": "İzzet Öz", "station": "Konak Taksi", "distance": 850, "score":2 , "profile":"https://i.pravatar.cc/150?img=51"}
   ],
   "comments": [
-    { "id": 1, "name": "İsmail Hakkı Aydın", "station": "Çiçek Taksi", "comment": "Kötü bir yolculuktu", "rate":1, "profile":"https://i.pravatar.cc/150?img=3" },
+    { "id": 1, "name": "İsmail Hakkı Aydın", "station": "Çiçek Taksi", "comment": "", "rate":1, "profile":"https://i.pravatar.cc/150?img=3" },
     { "id": 2, "name": "Cengiz Yılmaz", "station": "Akasya Taksi", "comment": "Bu kadar rezalet görmedim. Taksi çok kötüü!!", "rate":2, "profile":"https://i.pravatar.cc/150?img=68" },
     { "id": 3, "name": "Serkan Bayram", "station": "Terminal Taksi", "comment": "Şoför çok harika birisi. Bu şoförü her zaman çağırmak istiyorum.", "rate":5, "profile":"https://i.pravatar.cc/150?img=65" },
     { "id": 4, "name": "Mert Öner", "station": "Çiçek Taksi", "comment": "İlgisiz bir şofördü!", "rate":1 , "profile":"https://i.pravatar.cc/150?img=14"},
@@ -25,8 +25,8 @@
     { "id": 8, "name":  "Doğancan Alptekin", "station": "Akasya Taksi", "comment": "Kötü yolculuk", "rate":2, "profile":"https://i.pravatar.cc/150?img=69" },
     { "id": 9, "name":  "Onur Sazak", "station": "Terminal Taksi", "comment": "Harika Şoför, harika araç", "rate":5, "profile":"https://i.pravatar.cc/150?img=63" },
     { "id": 10, "name": "Emre Kazankaya", "station": "Çiçek Taksi", "comment": "Berbat bir yolculuktu, koltuklar yırtık. böyle taksi olmaz", "rate":1 , "profile":"https://i.pravatar.cc/150?img=61"},
-    { "id": 11, "name": "Ufuk Avcu", "station": "Akasya Taksi", "comment": "Sıradan bir yolculuktu", "rate":2 , "profile":"https://i.pravatar.cc/150?img=55"},
+    { "id": 11, "name": "Ufuk Avcu", "station": "Akasya Taksi", "comment": "", "rate":2 , "profile":"https://i.pravatar.cc/150?img=55"},
     { "id": 12, "name": "Burak Bayram", "station": "Terminal Taksi", "comment": "İdare eder, yol bitene kadar muhabbet edebilirsiniz.", "rate":3 , "profile":"https://i.pravatar.cc/150?img=58"},
-    { "id": 12, "name": "İzzet Öz", "station": "Konak Taksi", "comment": "Sıradan Bir yolculuk", "rate":2 , "profile":"https://i.pravatar.cc/150?img=51"}
+    { "id": 12, "name": "İzzet Öz", "station": "Konak Taksi", "comment": "", "rate":2 , "profile":"https://i.pravatar.cc/150?img=51"}
   ]
 }
