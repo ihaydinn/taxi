@@ -1,32 +1,260 @@
 {
   "posts": [
-    { "id": 1, "name": "İsmail Hakkı Aydın", "station": "Çiçek Taksi", "distance": 1250, "score":1, "profile":"https://i.pravatar.cc/150?img=3" },
-    { "id": 2, "name": "Cengiz Yılmaz", "station": "Akasya Taksi", "distance": 250, "score":2, "profile":"https://i.pravatar.cc/150?img=68" },
-    { "id": 3, "name": "Serkan Bayram", "station": "Terminal Taksi", "distance": 150, "score":5, "profile":"https://i.pravatar.cc/150?img=65" },
-    { "id": 4, "name": "Mert Öner", "station": "Çiçek Taksi", "distance": 1550, "score":1 , "profile":"https://i.pravatar.cc/150?img=14"},
-    { "id": 5, "name": "Samet Baskıcı", "station": "Akasya Taksi", "distance": 2250, "score":2 , "profile":"https://i.pravatar.cc/150?img=66"},
-    { "id": 6, "name": "Ferhat Yeşilyurt", "station": "Terminal Taksi", "distance": "1500", "score":3 , "profile":"https://i.pravatar.cc/150?img=59"},
-    { "id": 7, "name": "Ali Kaya Kılınç", "station": "Konak Taksi", "distance": 850, "score":4 , "profile":"https://i.pravatar.cc/150?img=57"},
-    { "id": 8, "name": "Doğancan Alptekin", "station": "Bizim Taksi", "distance": 1150, "score":3 , "profile":"https://i.pravatar.cc/150?img=69"},
-    { "id": 9, "name": "Onur Sazak", "station": "Terminal Taksi", "distance": 2350, "score":4 , "profile":"https://i.pravatar.cc/150?img=63"},
-    { "id": 10, "name": "Emre Kazankaya", "station": "Konak Taksi", "distance": 1850, "score":5 , "profile":"https://i.pravatar.cc/150?img=61"},
-    { "id": 11, "name": "Ufuk Avcu", "station": "Çiçek Taksi", "distance": 3250, "score":2 , "profile":"https://i.pravatar.cc/150?img=55"},
-    { "id": 12, "name": "Burak Bayram", "station": "Akasya Taksi", "distance": 350, "score":5 , "profile":"https://i.pravatar.cc/150?img=58"},
-    { "id": 13, "name": "İzzet Öz", "station": "Konak Taksi", "distance": 850, "score":2 , "profile":"https://i.pravatar.cc/150?img=51"}
+    {
+      "name": "İsmail Hakkı Aydın",
+      "station": "Çiçek Taksi",
+      "distance": 1250,
+      "score": 5,
+      "profile": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+      "id": 2,
+      "name": "Cengiz Yılmaz",
+      "station": "Akasya Taksi",
+      "distance": 250,
+      "score": 2,
+      "profile": "https://i.pravatar.cc/150?img=68"
+    },
+    {
+      "id": 3,
+      "name": "Serkan Bayram",
+      "station": "Terminal Taksi",
+      "distance": 150,
+      "score": 5,
+      "profile": "https://i.pravatar.cc/150?img=65"
+    },
+    {
+      "id": 5,
+      "name": "Samet Baskıcı",
+      "station": "Akasya Taksi",
+      "distance": 2250,
+      "score": 2,
+      "profile": "https://i.pravatar.cc/150?img=66"
+    },
+    {
+      "id": 6,
+      "name": "Ferhat Yeşilyurt",
+      "station": "Terminal Taksi",
+      "distance": "1500",
+      "score": 3,
+      "profile": "https://i.pravatar.cc/150?img=59"
+    },
+    {
+      "id": 7,
+      "name": "Ali Kaya Kılınç",
+      "station": "Konak Taksi",
+      "distance": 850,
+      "score": 4,
+      "profile": "https://i.pravatar.cc/150?img=57"
+    },
+    {
+      "id": 8,
+      "name": "Doğancan Alptekin",
+      "station": "Bizim Taksi",
+      "distance": 1150,
+      "score": 3,
+      "profile": "https://i.pravatar.cc/150?img=69"
+    },
+    {
+      "id": 9,
+      "name": "Onur Sazak",
+      "station": "Terminal Taksi",
+      "distance": 2350,
+      "score": 4,
+      "profile": "https://i.pravatar.cc/150?img=63"
+    },
+    {
+      "id": 10,
+      "name": "Emre Kazankaya",
+      "station": "Konak Taksi",
+      "distance": 1850,
+      "score": 5,
+      "profile": "https://i.pravatar.cc/150?img=61"
+    },
+    {
+      "id": 11,
+      "name": "Ufuk Avcu",
+      "station": "Çiçek Taksi",
+      "distance": 3250,
+      "score": 2,
+      "profile": "https://i.pravatar.cc/150?img=55"
+    },
+    {
+      "id": 12,
+      "name": "Burak Bayram",
+      "station": "Akasya Taksi",
+      "distance": 350,
+      "score": 5,
+      "profile": "https://i.pravatar.cc/150?img=58"
+    },
+    {
+      "id": 13,
+      "name": "İzzet Öz",
+      "station": "Konak Taksi",
+      "distance": 850,
+      "score": 2,
+      "profile": "https://i.pravatar.cc/150?img=51"
+    }
   ],
   "comments": [
-    { "id": 1, "name": "İsmail Hakkı Aydın", "station": "Çiçek Taksi", "comment": "", "rate":1, "profile":"https://i.pravatar.cc/150?img=3" },
-    { "id": 2, "name": "Cengiz Yılmaz", "station": "Akasya Taksi", "comment": "Bu kadar rezalet görmedim. Taksi çok kötüü!!", "rate":2, "profile":"https://i.pravatar.cc/150?img=68" },
-    { "id": 3, "name": "Serkan Bayram", "station": "Terminal Taksi", "comment": "Şoför çok harika birisi. Bu şoförü her zaman çağırmak istiyorum.", "rate":5, "profile":"https://i.pravatar.cc/150?img=65" },
-    { "id": 4, "name": "Mert Öner", "station": "Çiçek Taksi", "comment": "İlgisiz bir şofördü!", "rate":1 , "profile":"https://i.pravatar.cc/150?img=14"},
-    { "id": 5, "name": "Samet Baskıcı", "station": "Akasya Taksi", "comment": "Çok dalgın bir şoför. Hiç konusmadı bile. Sadece nereye gideceğimi sordu.", "rate":2 , "profile":"https://i.pravatar.cc/150?img=66"},
-    { "id": 6, "name": "Ferhat Yeşilyurt", "station": "Terminal Taksi", "comment": "İdare eder ama hiç indirim yapmadı.", "rate":3 , "profile":"https://i.pravatar.cc/150?img=59"},
-    { "id": 7, "name":  "Ali Kaya Kılınç", "station": "Çiçek Taksi", "comment": "Böyle şoför olmaz olsun", "rate":1, "profile":"https://i.pravatar.cc/150?img=57" },
-    { "id": 8, "name":  "Doğancan Alptekin", "station": "Akasya Taksi", "comment": "Kötü yolculuk", "rate":2, "profile":"https://i.pravatar.cc/150?img=69" },
-    { "id": 9, "name":  "Onur Sazak", "station": "Terminal Taksi", "comment": "Harika Şoför, harika araç", "rate":5, "profile":"https://i.pravatar.cc/150?img=63" },
-    { "id": 10, "name": "Emre Kazankaya", "station": "Çiçek Taksi", "comment": "Berbat bir yolculuktu, koltuklar yırtık. böyle taksi olmaz", "rate":1 , "profile":"https://i.pravatar.cc/150?img=61"},
-    { "id": 11, "name": "Ufuk Avcu", "station": "Akasya Taksi", "comment": "", "rate":2 , "profile":"https://i.pravatar.cc/150?img=55"},
-    { "id": 12, "name": "Burak Bayram", "station": "Terminal Taksi", "comment": "İdare eder, yol bitene kadar muhabbet edebilirsiniz.", "rate":3 , "profile":"https://i.pravatar.cc/150?img=58"},
-    { "id": 12, "name": "İzzet Öz", "station": "Konak Taksi", "comment": "", "rate":2 , "profile":"https://i.pravatar.cc/150?img=51"}
+    {
+      "id": 1,
+      "name": "İsmail Hakkı Aydın",
+      "station": "Çiçek Taksi",
+      "comment": "Çok harika bir insan. Ögrenci dostu",
+      "profile": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+      "id": 2,
+      "name": "Cengiz Yılmaz",
+      "station": "Akasya Taksi",
+      "comment": "Bu kadar rezalet görmedim. Taksi çok kötüü!!",
+      "profile": "https://i.pravatar.cc/150?img=68"
+    },
+    {
+      "id": 3,
+      "name": "Serkan Bayram",
+      "station": "Terminal Taksi",
+      "comment": "Şoför çok harika birisi. Bu şoförü her zaman çağırmak istiyorum.",
+      "profile": "https://i.pravatar.cc/150?img=65"
+    },
+    {
+      "id": 4,
+      "name": "Mert Öner",
+      "station": "Çiçek Taksi",
+      "comment": "İlgisiz bir şofördü!",
+      "profile": "https://i.pravatar.cc/150?img=14"
+    },
+    {
+      "id": 5,
+      "name": "Samet Baskıcı",
+      "station": "Akasya Taksi",
+      "comment": "Çok dalgın bir şoför. Hiç konusmadı bile. Sadece nereye gideceğimi sordu.",
+      "profile": "https://i.pravatar.cc/150?img=66"
+    },
+    {
+      "id": 6,
+      "name": "Ferhat Yeşilyurt",
+      "station": "Terminal Taksi",
+      "comment": "İdare eder ama hiç indirim yapmadı.",
+      "profile": "https://i.pravatar.cc/150?img=59"
+    },
+    {
+      "id": 7,
+      "name": "Ali Kaya Kılınç",
+      "station": "Çiçek Taksi",
+      "comment": "Böyle şoför olmaz olsun",
+      "profile": "https://i.pravatar.cc/150?img=57"
+    },
+    {
+      "id": 8,
+      "name": "Doğancan Alptekin",
+      "station": "Akasya Taksi",
+      "comment": "Kötü yolculuk",
+      "profile": "https://i.pravatar.cc/150?img=69"
+    },
+    {
+      "id": 9,
+      "name": "Onur Sazak",
+      "station": "Terminal Taksi",
+      "comment": "Harika Şoför, harika araç",
+      "profile": "https://i.pravatar.cc/150?img=63"
+    },
+    {
+      "id": 10,
+      "name": "Emre Kazankaya",
+      "station": "Çiçek Taksi",
+      "comment": "Berbat bir yolculuktu, koltuklar yırtık. böyle taksi olmaz",
+      "profile": "https://i.pravatar.cc/150?img=61"
+    },
+    {
+      "id": 11,
+      "name": "Ufuk Avcu",
+      "station": "Akasya Taksi",
+      "comment": "Mükemmel",
+      "profile": "https://i.pravatar.cc/150?img=55"
+    },
+    {
+      "id": 12,
+      "name": "İzzet Öz",
+      "station": "Konak Taksi",
+      "comment": "merhaba",
+      "profile": "https://i.pravatar.cc/150?img=51",
+      "driverId": 0
+    },
+    {
+      "id": 12,
+      "name": "İzzet Öz",
+      "station": "Konak Taksi",
+      "comment": "",
+      "profile": "https://i.pravatar.cc/150?img=51"
+    }
+  ],
+  "driverComments": [
+    {
+      "driverId": 9,
+      "id": 1,
+      "comment": "Çok harika bir insan. Ögrenci dostu"
+    },
+    {
+      "driverId": 7,
+      "id": 2,
+      "comment": "Bu kadar rezalet görmedim. Taksi çok kötüü!!"
+    },
+    {
+      "driverId": 5,
+      "id": 3,
+      "comment": "Şoför çok harika birisi. Bu şoförü her zaman çağırmak istiyorum."
+    },
+    {
+      "driverId": 2,
+      "id": 4,
+      "comment": "İlgisiz bir şofördü!"
+    },
+    {
+      "driverId": 1,
+      "id": 5,
+      "comment": "Çok dalgın bir şoför. Hiç konusmadı bile. Sadece nereye gideceğimi sordu."
+    },
+    {
+      "driverId": 3,
+      "id": 6,
+      "comment": "İdare eder ama hiç indirim yapmadı."
+    },
+    {
+      "driverId": 5,
+      "id": 7,
+      "comment": "Böyle şoför olmaz olsun"
+    },
+    {
+      "driverId": 3,
+      "id": 8,
+      "comment": "Kötü yolculuk"
+    },
+    {
+      "driverId": 10,
+      "id": 9,
+      "comment": "Harika Şoför, harika araç"
+    },
+    {
+      "driverId": 8,
+      "id": 10,
+      "comment": "Berbat bir yolculuktu, koltuklar yırtık. böyle taksi olmaz"
+    },
+    {
+      "driverId": 3,
+      "id": 11,
+      "comment": "Mükemmel"
+    },
+    {
+      "driverId": 1,
+      "id": 12,
+      "comment": ""
+    },
+    {
+      "driverId": 5,
+      "id": 12,
+      "comment": ""
+    }
   ]
 }
